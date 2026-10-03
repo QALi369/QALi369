@@ -1,16 +1,29 @@
-## Hi there 👋
+## About Me
+   I am lior, and I am really interested in digital media technology.
 
-<!--
-**QALi369/QALi369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Interests
+   3D modeling
+   web developmen AI
+   video editing
+   games
+   interaction design and the like
 
-Here are some ideas to get you started:
+## Current Skills
+   basic Photoshop skills
+   simple Python programming
+   video editing. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+   I've been learning skills such as C programming and others recently.
+
+## What I Want to Build
+   make a small game
+   design posters
+   learn 3D scene building
+   try AI‑related multimedia projects
+
+## Preferred Role
+   Technical Artist and Planner
+
+## Strengths
+   I enjoy researching information, possess great patience, love experimenting with new things, and have a vivid            imagination.
