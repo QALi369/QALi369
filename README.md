@@ -27,3 +27,5 @@
 
 ## Strengths
    I enjoy researching information, possess great patience, love experimenting with new things, and have a vivid            imagination.
+## Contact
+   My email address：2530430838@qq.com
